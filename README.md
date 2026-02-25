@@ -33,7 +33,7 @@ Speech-To-Text-Project/
 └── README.md
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Speech-To-Text-Project.git
+git clone https://github.com/sahilll08/Speech-To-Text-Project.git
 cd Speech-To-Text-Project
 2️⃣ Install Required Libraries
 pip install SpeechRecognition
